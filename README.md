@@ -1,4 +1,4 @@
-# FakeBank-Hacking-Project
+# FakeBank-Hacking-Lab
 
 <h1>Description</h1>
 Hello everyone!
